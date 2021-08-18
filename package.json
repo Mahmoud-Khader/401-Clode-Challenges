@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "jest": "^27.0.6",
+    "supertest": "^6.1.6"
+  },
+  "name": "401-clode-challenges",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahmoud-Khader/401-Clode-Challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahmoud-Khader/401-Clode-Challenges/issues"
+  },
+  "homepage": "https://github.com/Mahmoud-Khader/401-Clode-Challenges#readme"
+}
