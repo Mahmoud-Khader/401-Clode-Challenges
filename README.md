@@ -12,8 +12,8 @@
 | Code02      | [array-insert-shift](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code02)      |
 | Code03      | [array-binary-search](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code03)      |
 | Code04      | [fibonacci-sequence](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code04)      |
-<!-- | Code05      | [Link 5]()      |
-| Code06      | [Link 6]()      |
+| Code05      | [linked-list](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code05)      |
+<!-- | Code06      | [Link 6]()      |
 | Code07      | [Link 7]()      |
 | Code08      | [Link 8]()      |
 | Code09      | [Link 9]()      |
