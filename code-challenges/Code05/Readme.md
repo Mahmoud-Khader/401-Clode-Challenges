@@ -27,3 +27,7 @@
 * *include(): this method compare input value if it's exist in linked list.*
 * *Insert(): which takes value of type any adding new node with the input value to the list.*
 * *toString(): return a string visiulizing the linked list shape.*
+
+## White Board 
+
+![linkedlist](../images/linkedlist.PNG)

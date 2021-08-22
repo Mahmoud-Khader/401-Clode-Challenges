@@ -16,6 +16,18 @@ describe("Linked List", () => {
 
     // console.log(ll);
   });
+  it('append()', ()=> {
+    let newList = new LinkedList();
+    let initialValue = 1;
+    newList.append(initialValue);
+    expect(newList.head.value).toEqual(initialValue);
+
+    let anotherOne = 'Second Item';
+    newList.append(anotherOne);
+    expect(newList.head.next.value).toEqual(anotherOne);
+    expect(newList.head.next.next).toBeNull();
+    expect(newList.head.value).toEqual(initialValue);
+});
 
   it("The head property will properly point to the first node in the linked list", () => {
     const ll = new LinkedList();
@@ -58,6 +70,7 @@ describe("Linked List", () => {
 
     expect(ll.toString()).toBe("{ test1 } -> { test2 } -> { test3 } -> NULL");
   });
+  
 
   
 });

@@ -27,6 +27,19 @@ class LinkedList {
       }
       return result;
     }
+    append(value){
+      let newNode= new Node(value);
+      if(!this.head){
+          this.head=newNode;
+      }
+      else{
+          let currentN=this.head;
+          while(currentN.next){
+              currentN=currentN.next;
+          }
+          currentN.next=newNode;
+      }
+  }
   
     toString() {
       let string = "";
