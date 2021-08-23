@@ -14,7 +14,7 @@
 | Code04      | [fibonacci-sequence](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code04)      |
 | Code05      | [linked-list](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code05)      |
 | Code06      | [linked-list-insertions](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code06)      |
-<!-- | Code07      | [Link 7]()      |
+<!-- | Code07      | [linked-list-kth](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code07)      |
 | Code08      | [Link 8]()      |
 | Code09      | [Link 9]()      |
 | Code10      | [Link 10]()      |
