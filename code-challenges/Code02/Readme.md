@@ -13,5 +13,8 @@ value added at the middle index
 ![array-binary-search](../images/array-insert-shift.PNG)
 
 ## Approach & Efficiency
-<!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
 
+* *i undertand the problem first*
+* *I imagined how the results should be*
+* *I wrote the code*
+* *I made the tests*
