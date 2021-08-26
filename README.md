@@ -14,13 +14,13 @@
 | Code04      | [fibonacci-sequence](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code04)      |
 | Code05      | [linked-list](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code05)      |
 | Code06      | [linked-list-insertions](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code06)      |
-<!-- | Code07      | [linked-list-kth](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code07)      |
-| Code08      | [Link 8]()      |
-| Code09      | [Link 9]()      |
-| Code10      | [Link 10]()      |
-| Code11      | [Link 11]()      |
+| Code07      | [linked-list-kth](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code07)      |
+| Code08      | [linked-list-zip](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code08)      |
+| Code10      | [Stack-and-Queue](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code10)      |
+<!-- | Code11      | [Link 11]()      |
 | Code12      | [Link 12]()      |
 | Code13      | [Link 13]()      |
 | Code14      | [Link 14]()      |
 | Code15      | [Link 15]()      |
-| Code16      | [Link 15]()      | -->
+| Code16      | [Link 15]()      |
+| Code09      | [Link 9]()      | -->
