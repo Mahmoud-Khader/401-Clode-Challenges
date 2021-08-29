@@ -47,7 +47,7 @@ describe("stacks", () => {
     expect(stack.pop()).toBe("test3");
     expect(stack.pop()).toBe("test2");
     expect(stack.pop()).toBe("test1");
-    expect(stack.pop()).toBe("stack is empty");
+    expect(stack.pop()).toBe("there is no nodes");
   });
 
   it("Can successfully peek the next item on the stack", () => {
@@ -66,7 +66,7 @@ describe("stacks", () => {
 
   it("Calling pop or peek on empty stack raises exception", () => {
     const stack = new Stack();
-    expect(stack.peek()).toBe("stack is empty");
-    expect(stack.pop()).toBe("stack is empty");
+    expect(stack.peek()).toBe(-1);
+    expect(stack.pop()).toBe("there is no nodes");
   });
 });

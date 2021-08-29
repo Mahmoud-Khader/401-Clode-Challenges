@@ -17,8 +17,8 @@
 | Code07      | [linked-list-kth](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code07)      |
 | Code08      | [linked-list-zip](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code08)      |
 | Code10      | [Stack-and-Queue](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code10)      |
-<!-- | Code11      | [Link 11]()      |
-| Code12      | [Link 12]()      |
+| Code11      | [stack-queue-pseudo](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code11)      |
+<!-- | Code12      | [Link 12]()      |
 | Code13      | [Link 13]()      |
 | Code14      | [Link 14]()      |
 | Code15      | [Link 15]()      |
