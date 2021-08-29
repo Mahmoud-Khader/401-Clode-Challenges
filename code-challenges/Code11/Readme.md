@@ -1,25 +1,26 @@
-# Stack-and-Queue
+# stack-queue-pseudo
 
-**1- Stack :**
-  - create a stack class that has a top property ,It create an empty 
-   - Stack when instantiated
-
-The object should be oware of a default empty value assigned toTopwhn the stack created .
-
-**2- Queue :** 
-
-- Create a Queue class that has a front property , It create an empty Queue when instantiated .
-- this object should be aware of a default empty value assigned 
-- toFront when the is created
+* *Implement queue using stack ,you should use two stacks to implements the queue .*
 
 ## Whiteboard Process
-![stack-and-queue](../images/stack-and-queue.PNG)
+![stack-queue-pseudo](../images/stack-queue-pseudo.PNG)
 
 ## Approach & Efficiency
 * *i undertand the problem first*
 * *I imagined how the results should be*
 * *I wrote the code*
 * *I made the tests*
+* *then I check the test (npm test)*
+
+### enqueue:
+
+* *Time: O(1)*
+* *Space: O(1)*
+
+### dequeue:
+
+* *Time: O(n)*
+* *Space: O(n)*
 
 ## API
 
