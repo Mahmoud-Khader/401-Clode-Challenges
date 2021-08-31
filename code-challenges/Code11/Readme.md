@@ -9,7 +9,10 @@
 * *i undertand the problem first*
 * *I imagined how the results should be*
 * *I wrote the code*
-* *I made the tests*
+   * *Write a class called pseudoQueue*
+   * *make a constructor that takes two new stacks*
+   * *write the enqueue thats pushs to the stack*
+   * *write the dequeue thats removes the stack*
 * *then I check the test (npm test)*
 
 ### enqueue:

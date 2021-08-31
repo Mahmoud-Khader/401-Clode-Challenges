@@ -19,6 +19,9 @@ The object should be oware of a default empty value assigned toTopwhn the stack 
 * *i undertand the problem first*
 * *I imagined how the results should be*
 * *I wrote the code*
+   * *Write a class called stack and class called Queue in sperate files*
+   * *I added the methods (push,pop,peek,isEmpty) to the stack file*
+   * *I added the methods (enqueue,dequeue,peek,isEmpty) to the queue file*
 * *I made the tests*
 
 ## API
