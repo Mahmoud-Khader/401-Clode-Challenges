@@ -24,3 +24,4 @@
 | Code16      | [trees-max](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code16)      |
 | Code17      | [tree-breadth-first](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code17)      |
 | Code18      | [tree-fizz-buzz](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code18)      |
+| Code26      | [tree-fizz-buzz](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code26)      |
