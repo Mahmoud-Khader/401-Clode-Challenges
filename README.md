@@ -26,3 +26,4 @@
 | Code18      | [tree-fizz-buzz](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code18)      |
 | Code26      | [tree-fizz-buzz](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code26)      |
 | Code27      | [tree-fizz-buzz](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code27)      |
+| Code28      | [quickSort](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code28)      |

@@ -1,4 +1,6 @@
+
 # Merge Sort
+
 
 * *we need to sort array using merge algorathm input will be array in sort ,the output will be sorted array*
 
