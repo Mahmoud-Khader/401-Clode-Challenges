@@ -18,4 +18,4 @@
 * *I made the tests*
 * *then I check the test (npm test)*
 
-
+![insertion-sort](../images/Code26-Steps.PNG)
