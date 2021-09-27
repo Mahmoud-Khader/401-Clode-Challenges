@@ -24,6 +24,9 @@
 | Code16      | [trees-max](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code16)      |
 | Code17      | [tree-breadth-first](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code17)      |
 | Code18      | [tree-fizz-buzz](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code18)      |
-| Code26      | [tree-fizz-buzz](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code26)      |
-| Code27      | [tree-fizz-buzz](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code27)      |
-| Code28      | [quickSort](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code28)      |
+| Code26      | [Insertion Sort](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code26)      |
+| Code27      | [Quick Sort](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code27)      |
+| Code28      | [Merge Sort](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code28)      |
+| Code30      | [Hashtables](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code30)      |
+| Code31      | [hashmap-repeated-word](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code31)      |
+| Code32      | [hashmap-tree-intersection](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code32)      |
