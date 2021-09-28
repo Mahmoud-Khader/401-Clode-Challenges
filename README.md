@@ -30,3 +30,4 @@
 | Code30      | [Hashtables](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code30)      |
 | Code31      | [hashmap-repeated-word](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code31)      |
 | Code32      | [hashmap-tree-intersection](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code32)      |
+| Code33      | [hashmap-left-join](https://github.com/Mahmoud-Khader/401-Clode-Challenges/tree/main/code-challenges/Code33)      |
